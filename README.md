@@ -38,3 +38,5 @@ a Python starter project for building an MCP (Model Context Protocol) server. It
 # Sources
 - Official MCP Documentation: https://modelcontextprotocol.io/docs/getting-started/intro
 - Official MCP Python-SDK: https://github.com/modelcontextprotocol/python-sdk
+- Official & Unofficial Servers: https://github.com/modelcontextprotocol/servers
+- Tool Management: https://arxiv.org/pdf/2410.14594
